@@ -5,7 +5,7 @@ You are welcom to watch the introduction video of this project in: https://www.b
 English subtitles is provided.
 
 
-## 2024 December update
+## December 2024 update
 The robotic arm has been upgraded!
 
 It now supports advanced hand detection and gesture recognition capabilities.
