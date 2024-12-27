@@ -6,6 +6,7 @@ English subtitles is provided.
 
 
 ## 2024 December update
-More advanced robotic arm.
-It can now achieve hand detection and gesture recognition.
+The robotic arm has been upgraded!
+
+It now supports advanced hand detection and gesture recognition capabilities.
 <img src="example.gif" width="500" height="300">
