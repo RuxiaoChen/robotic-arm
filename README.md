@@ -9,4 +9,5 @@ English subtitles is provided.
 The robotic arm has been upgraded!
 
 It now supports advanced hand detection and gesture recognition capabilities.
+
 <img src="example.gif" width="500" height="300">
