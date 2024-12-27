@@ -5,4 +5,4 @@ You are welcom to watch the introduction video of this project in: https://www.b
 English subtitles is provided.
 
 # 2024 December update
-![Alt Text](example.gif)
+<img src="example.gif" width="500" height="300" alt="描述文本">
