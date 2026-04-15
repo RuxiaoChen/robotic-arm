@@ -14,4 +14,4 @@ It now supports advanced hand detection and gesture recognition capabilities.
 
 If you are interested in this project and would like to discuss further, feel free to reach out to me at:ruxiaochen333@gmail.com
 
-PS: Original project was done like 4 years ago when I was still an undegrad, I would say that part of code is a mess and almost unreadable... glhf!
+PS: Original project was done like 4 years ago when I was still an undegrad, I would say that part of code is a mess and almost unreadable... glhf
